@@ -6,8 +6,7 @@ A curated of book recommendations found in podcasts and through reading.
 
 <!-- MarkdownTOC depth=4 -->
 
-- [Steven Pinker](#steven-pinker)
-    Reference: Ezra Klein's Podcast (2/11/2018)
+- [Steven Pinker](#steven-pinker) - Reference: Ezra Klein's Podcast (2/11/2018)
     - [The Beginning of Infinity: Explanations That Transform the World](https://www.amazon.com/dp/B005DXR5ZC)
     - [Whole Earth Discipline: Why Dense Cities, Nuclear Power, Transgenic Crops, Restored Wildlands, and Geoengineering Are Necessary](https://www.amazon.com/dp/B0044KLPJC)
     - [Atrocities: The 100 Deadliest Episodes in Human History](https://www.amazon.com/dp/B005LW5JMQ)
